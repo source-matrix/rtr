@@ -9,7 +9,7 @@ load_dotenv()
 import re
 
 API_ID = int(getenv("API_ID", "21321670"))
-API_HASH = getenv("API_HASH", "7ffe42a7ac4872b6efd6ba014d44944e")
+API_HASH = getenv("API_HASH", "7872432430:AAG-UbchkM8IKa4oudMsndl8imFRpXYZICY")
 OWNER = int(os.getenv("OWNER", "6413536022"))
 BOT_TOKEN = getenv("BOT_TOKEN", "8162554536:AAGQ9tp3gYznxkE2eVbAH5Opf7kPemQ9_MQ")
 Muntazer = getenv("Muntazer", "Source_e")
